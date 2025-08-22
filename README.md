@@ -42,11 +42,15 @@ FairCXRnet/
 │── README.md # Project documentation (this file)
 FairCXRnet shows:
 
+---
+
 📊 Results
 Improved cross-domain generalization compared to single-task baselines
 Enhanced fairness performance across underrepresented groups
 Robust multi-label classification on diverse datasets
 (Full results and ablation studies available in the paper.)
+
+---
 
 **Citation**
 
